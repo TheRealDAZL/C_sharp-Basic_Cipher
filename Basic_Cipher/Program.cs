@@ -36,7 +36,7 @@ void ChoisirSensCrypto()
 
             if (extrant != "")
             {
-                Console.WriteLine("\nVoici votre message encodé:\n" + extrant);
+                Console.WriteLine("\nVoici votre message encodé :\n" + extrant);
             }
 
             else
